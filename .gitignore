@@ -1,0 +1,9 @@
+bin/Out/Tmp/node/*
+bin/Out/Tmp/registry/*
+bin/Out/Tmp/tts/*
+bin/Out/*.exp
+bin/*
+bin/Out/Log/*.log
+*.user
+
+
